@@ -2,7 +2,7 @@
 
 ## Tipos primitivos (string. number(int/float), boolean
 
-![image](https://github.com/user-attachments/assets/1644e27f-42d5-4650-b46d-3968b36bd9aa)
+<img src="https://github.com/user-attachments/assets/1644e27f-42d5-4650-b46d-3968b36bd9aa" width="650px" height="450px">
 
 para saber mais, [clique aqui.](https://dev.to/dormin/tipos-primitivos-em-python-10jg)
 ### Operadores aritmeticos*
